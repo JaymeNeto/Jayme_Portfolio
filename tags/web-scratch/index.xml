@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web-Scratch on Jayme E. Oliveira Neto</title>
-    <link>https://JaymeNeto.github.io/Jayme_Portfolio/tags/web-scratch/</link>
+    <link>https://Jaymeneto.github.io/Jayme_Portfolio/tags/web-scratch/</link>
     <description>Recent content in Web-Scratch on Jayme E. Oliveira Neto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="https://JaymeNeto.github.io/Jayme_Portfolio/tags/web-scratch/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Jaymeneto.github.io/Jayme_Portfolio/tags/web-scratch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Console Scratch</title>
-      <link>https://JaymeNeto.github.io/Jayme_Portfolio/post/chapter-1/</link>
+      <link>https://Jaymeneto.github.io/Jayme_Portfolio/post/chapter-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://JaymeNeto.github.io/Jayme_Portfolio/post/chapter-1/</guid>
+      <guid>https://Jaymeneto.github.io/Jayme_Portfolio/post/chapter-1/</guid>
       <description>Video games são desenvolvidos por diferentes empresas desde os anos 70. Com essa historia existe uma grande variedade de consoles com diferentes anos de lançamentos, preço inicial, jogo destaque entre outros. Interessado em explorar esses dados estou criandop um codigo para extrair do Wikipedia esses parametros.
 Veja meu código no GitHub</description>
     </item>
